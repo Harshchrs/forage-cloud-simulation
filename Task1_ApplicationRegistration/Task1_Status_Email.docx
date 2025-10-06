@@ -1,0 +1,20 @@
+To: Daniel
+Cc: Samuel, Mark, Sofia
+Subject: Task 1 Completion — Cloud Application Registration
+
+Hello Daniel,
+
+I have completed Task 1 of our cloud setup assignment. Since I use AWS, I registered our first application in AWS rather than Azure. Here are the details:
+
+- Application Name: wcd-bank-app
+- Cloud Platform: AWS
+- Service Used: IAM (Identity & Access Management)
+- Purpose: Enable authentication between the WCD Bank app and AWS cloud services for CI/CD and testing.
+- Status: IAM user created with programmatic access; credentials generated and stored securely.
+
+All setup steps were followed, and the application is now ready for integration in future tasks.
+
+Please let me know if you need any additional screenshots or details.
+
+Best regards,
+Harsh Chourasia
